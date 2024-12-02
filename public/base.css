@@ -1,0 +1,11 @@
+/* color palette from <https://github.com/vuejs/theme> */
+@import url('https://fonts.googleapis.com/css2?family=Bokor&display=swap');
+
+
+
+body{
+  background-color: #ddd;
+  font-family: "Bokor", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
